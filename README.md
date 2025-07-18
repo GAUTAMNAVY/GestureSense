@@ -1,5 +1,7 @@
 
 <img width="2759" height="196" alt="image" src="https://github.com/user-attachments/assets/51388fc0-1e8b-4388-89b5-630b9d6ba4ee" />
+
+
 ## **Problem Statement**
 
 In today’s digital environments—especially in education, remote work, and creative collaboration—traditional input devices limit natural interaction. Tasks like teaching online, drawing, or navigating software like OneNote can be inefficient without intuitive control. Existing systems lack support for contactless, gesture-based input that is both affordable and adaptable. There is a growing need for a real-time hand gesture recognition system that allows users to perform actions such as palm-to-select, point-to-hover, and pinch-to-draw. Such a system should be accurate, easy to use, and versatile enough to enhance accessibility, hygiene, and user experience across diverse applications like virtual classrooms, smart workplaces, and assistive tools.
